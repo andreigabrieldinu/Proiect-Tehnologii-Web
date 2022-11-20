@@ -10,6 +10,8 @@ Pentru acest proiect, vom realiza o aplicatie web pentru prevenirea risipei de m
 -	Baza de date: SQL Server
 -	Back-end: Node.js, ORM Knex, framework-ul Express
 -	Front-end: React
+
+
 Functionalitatile pe care proiectul nostru le va avea sunt cele din planul pentru tema 4, Anti Food Waste App.
 -	Utilizatorii pot face o lista cu alimentele din frigider si care sa fie organizata pe categorii.
 -	Utilizatorii isi pot defini grupuri de prieteni si ii pot eticheta in functie de preferintele lor (vegetarian, carnivor, etc.). Ca utilizator, imi pot invita prietenii sa se uite pe lista de alimente disponibile. 
