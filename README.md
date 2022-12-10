@@ -7,7 +7,7 @@ Echipa formata din:
 Plan de proiect
 
 Pentru acest proiect, vom realiza o aplicatie web pentru prevenirea risipei de mancare. In acest sens, vom utiliza urmatoarele tehnologii:
--	Baza de date: SQL Server
+-	Baza de date: SQLite
 -	Back-end: Node.js, ORM Sequelize, framework-ul Express
 -	Front-end: React
 
